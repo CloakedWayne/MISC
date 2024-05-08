@@ -1,4 +1,4 @@
-# Better carbon fiber tube mounting
+# Better CF tube mounting
 ![1](Images/CF_rail_mounting.png)
 
 *If you have questions, consider joining the Discord server.*
