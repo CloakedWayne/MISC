@@ -6,7 +6,7 @@
 
 ## What's this?
 
-Many of us have already switched to 4040 vertical extrusions and structural side panels, so I wanted to reuse the stock parts for an extrusion door. The door only uses the front extrusion slots so that the sides can have full coverage panels and/or insulation. The hinges use double F695 bearings, and if the side panel allows for it the door can be opened to almost 270 degrees.
+Many of us have already switched to 4040 vertical extrusions and structural side panels, so I wanted to reuse the stock parts for an extrusion door. The door only uses the front extrusion slots so that the sides can have full coverage panels and/or insulation. The hinges have double F695 bearings, and if the side panel allows for it the door can be opened to almost 270 degrees.
 
 
 On V2 if you have a lightweight X-beam and want to avoid cutting one of your vertical extrusions you can also reuse your stock X-extrusion with some additional hardware and printed parts.
