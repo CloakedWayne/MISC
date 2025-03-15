@@ -1,1 +1,1 @@
-## Logo designer: Sy-Noon
+# Logo designer: [Sy-Noon](https://synoon.portfoliobox.net/)
