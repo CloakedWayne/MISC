@@ -1,9 +1,5 @@
 # SLM belt clamps for the Monolith belt path
 
-![1](Images/type_1.png)
-![2](Images/type_2.png)
-![3](Images/hands_on.jpg)
-
 ## What's this?
 
 These are standalone versions of the Monolith toolhead's belt clamp to help with toolhead development/conversion for the belt path. Even if the rest of the toolhead carriage is plastic, this method can be pretty robust and compact.
@@ -19,6 +15,11 @@ These are standalone versions of the Monolith toolhead's belt clamp to help with
 - No vertical space constraint (universal, supports belts up to 12mm)
 - Excess belt on the outside
 - With only 2 screws partially tightened it's easy to pull the belt's other end to take out all the slack before tensioning
+
+
+![1](Images/type_1.png)
+![2](Images/type_2.png)
+![3](Images/hands_on.jpg)
 
 > [!NOTE]
 > **If you have questions or want to stay more up-to-date with Monolith, consider joining the dedicated Discord server.**
