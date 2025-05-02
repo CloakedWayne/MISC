@@ -4,6 +4,7 @@
 
 These are standalone versions of the Monolith toolhead's belt clamp to help with toolhead development/conversion for the belt path. Even if the rest of the toolhead carriage is plastic, this method can be pretty robust and compact.
 
+![3](Images/hands_on.jpg)
 
 ### The Monolith's flipped belt path is one belt's thickness away from the X MGN12H carriage's surface. Therefore, it's possible to design a thin SLM belt clamp around the carriage with the following design goals:
 - Single-piece
@@ -16,11 +17,6 @@ These are standalone versions of the Monolith toolhead's belt clamp to help with
 - Excess belt on the outside
 - With only 2 screws partially tightened it's easy to pull the belt's other end to take out all the slack before tensioning
 
-
-![1](Images/type_1.png)
-![2](Images/type_2.png)
-![3](Images/hands_on.jpg)
-
 > [!NOTE]
 > **If you have questions or want to stay more up-to-date with Monolith, consider joining the dedicated Discord server.**
 >
@@ -28,4 +24,7 @@ These are standalone versions of the Monolith toolhead's belt clamp to help with
 >
 > **If you would like to see more of this and other projects in the future, consider supporting me on Ko-fi.**
 >
-> [![Join the Discord](https://github.com/CloakedWayne/Monolith_Gantry_V2-VT/blob/main/Images/kofi_short_button_white.png)](https://ko-fi.com/cloakedwayne)
+> [![Join the Discord](https://github.com/CloakedWayne/MISC/blob/main/Common_repo_files/kofi_short_button_white.png)](https://ko-fi.com/cloakedwayne)
+
+![1](Images/type_1.png)
+![2](Images/type_2.png)
