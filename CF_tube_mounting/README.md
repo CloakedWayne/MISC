@@ -1,24 +1,25 @@
 # Better CF tube mounting
 ![1](Images/CF_rail_mounting.png)
 
-*If you have questions, consider joining the Discord server.*
-
-[![Join the Discord](https://discord.com/api/guilds/1227971059764953230/widget.png?style=banner3)](https://discord.gg/JanBKxAzDz)
-
 ## What's this?
 This is a 20x20mm square tube mounting solution that utilizes through-bolts and printed inserts to maximize the torsional rigidity of the X-axis.
 
 ## Section view
 ![2](Images/section_view.png)
 
-
-
+> [!NOTE]
+> **If you have questions or want to stay more up-to-date with Monolith, consider joining the dedicated Discord server.**
+>
+> [![Join the Discord](https://discord.com/api/guilds/1227971059764953230/widget.png?style=banner3)](https://discord.gg/JanBKxAzDz)
+>
+> **If you would like to see more of this and other projects in the future, consider supporting me on Ko-fi.**
+>
+> [![Join the Discord](https://github.com/CloakedWayne/MISC/blob/main/Common_repo_files/kofi_short_button_white.png)](https://ko-fi.com/cloakedwayne)
 
 ## BOM for rail mounting:
 
 *The MGN9 hole distance from the end of the rail usually varies based on the manufacturer and the length of the rail. You most likely have to leave out the first and last hole when using MGN9.
 It is recommended to use the rest of the available screws on a rail.*
-
 
 **Common hardware option for MGN9:**
 
