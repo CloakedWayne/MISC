@@ -14,8 +14,6 @@ On V2 if you have a custom X-beam and want to avoid cutting one of your vertical
 
 ## BOM and more details SOON™!
 
-
-
 > [!NOTE]
 > **If you have questions or want to stay more up-to-date with Monolith, consider joining the dedicated Discord server.**
 >
@@ -23,4 +21,4 @@ On V2 if you have a custom X-beam and want to avoid cutting one of your vertical
 >
 > **If you would like to see more of this and other projects in the future, consider supporting me on Ko-fi.**
 >
-> [![Join the Discord](https://github.com/CloakedWayne/Monolith_Gantry_V2-VT/blob/main/Images/kofi_short_button_white.png)](https://ko-fi.com/cloakedwayne)
+> [![Join the Discord](https://github.com/CloakedWayne/MISC/blob/main/Common_repo_files/kofi_short_button_white.png)](https://ko-fi.com/cloakedwayne)
