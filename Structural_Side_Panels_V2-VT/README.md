@@ -1,10 +1,10 @@
 # Structural Side Panels V2-VT
 
-![1](Images/Structural_side_Panels_V2-VT.PNG)
-
 ## What's this?
 
 Structural Side Panels for the common V2-VT sizes
+
+![1](Images/Structural_side_Panels_V2-VT.PNG)
 
 If I could only add a single mod to a stock Voron frame I'd do structural side panels, so here they are.
 
